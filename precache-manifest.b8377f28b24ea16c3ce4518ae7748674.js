@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a486ab0fa61bd2f9d1f1c3c64d5af567",
+    "revision": "5882edd7ce8c3f02518196a4823af2ee",
     "url": "/QuoteMachine/index.html"
   },
   {
-    "revision": "9132ee1fb5b541ad278a",
+    "revision": "762dbdef141b637e0d15",
     "url": "/QuoteMachine/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/QuoteMachine/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "9132ee1fb5b541ad278a",
-    "url": "/QuoteMachine/static/js/main.9a582f63.chunk.js"
+    "revision": "762dbdef141b637e0d15",
+    "url": "/QuoteMachine/static/js/main.982b9424.chunk.js"
   },
   {
     "revision": "ab1f7b065459d22f075b",
