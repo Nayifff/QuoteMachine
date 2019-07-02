@@ -59,6 +59,7 @@ render() {
 const { hasQuote } = this.state;
 return ( 
     <div> 
+    <h1> HIIII </h1>
     <Fragment> 
         <h1> Quote Machine! </h1>
         <button onClick={this.getRandomQuote}> Click me to get a new quote </button> <br /> <br /> 
