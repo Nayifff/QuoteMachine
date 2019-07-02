@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <QuoteMachine /> 
+      <div className="creditt"> by Nayifff </div>
     </div>
   );
 }

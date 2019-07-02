@@ -65,6 +65,10 @@ return (
         { hasQuote === true ? 
         this.renderQuote()
              : ' No Quote Yet! '}
+        
+        <br /> 
+        <br /> 
+
         </Fragment>
     </div> 
 
