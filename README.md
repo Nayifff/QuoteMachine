@@ -1,4 +1,4 @@
-# A Simple quote machine that generates random quotes 
+# A simple quote machine that generates random quotes 
 
 ## Live Demo: https://nayifff.github.io/QuoteMachine/
 
